@@ -22,7 +22,8 @@ body {
     min-height: 100vh;
 }
 form {
-    width: 300px;
+    height: 270px;
+    width: 250px;
     background-color: var(--secnt-color);
     padding: 2rem;
     display: inline-flex;
@@ -31,9 +32,12 @@ form {
     border-radius: 2rem;
     box-shadow: 10px 10px 8px #151515;
     letter-spacing: 0.3rem;
+    padding-top: 50px;
     
 }
 form .title {
+    margin-bottom: 20px;
+    top: 0px;
     font-size: 2.4rem;
     color: #fff;
 }
@@ -62,10 +66,10 @@ form button {
     cursor: pointer;
     display: flex;
     align-self: center;
-    font-size: 1rem;
+    font-size: 1.2rem;
     font-weight: 400;
     margin: 20px;
-    padding: 1.2em 2.8em;
+    padding: 0.8em 2.2em;
     text-align: center;
     text-transform: uppercase;
     font-weight: 700;
@@ -84,10 +88,10 @@ form button {
 .newPassword {
     color: white;
     border-bottom: 1px solid transparent;
+    font-size: 1.3rem;
 }
 .newPassword:hover {
     border-bottom: 1px solid white;
     transition: 350ms;
     border-radius: 2px;
 }
-
