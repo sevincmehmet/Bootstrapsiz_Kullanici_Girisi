@@ -25,6 +25,7 @@ function control(kullanıcı, sifre) {
             }
         } else if((sifre != user1.password || kullanıcı != user1.username)) {
             alert("Kullanıcı adı veya şifreniz yanlış")
+            return false;
         }
 
     } else {
