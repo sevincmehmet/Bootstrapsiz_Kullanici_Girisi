@@ -132,3 +132,16 @@ body {
   outline: none;
   box-sizing: border-box;
 }
+.newPassword-main .title {
+  margin: 0 13%; 
+  font-size:2.2rem;
+  margin-bottom: 30px;
+}
+.newPassword-main .title2{
+  margin: 0 13%; 
+  font-size:2.2rem;
+  margin-bottom: 20px;
+  color: #fff;
+  display: inline-flex;
+  text-align: center;
+}
