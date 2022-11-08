@@ -43,7 +43,7 @@ body {
   font-size: 2.4rem;
   color: #fff;
 }
-.main input {
+.main .input {
   border-radius: 3rem;
   padding: 4%;
   margin-top: 6%;
@@ -52,7 +52,7 @@ body {
   border: 2px solid var(--secnt-color);
   transition: 0.5s;
 }
-.main input:focus {
+.main .input:focus {
   border: 2px solid #fff;
   box-shadow: 0 0 10px 0 var(--secnt-color) inset;
 }
@@ -119,14 +119,13 @@ body {
   box-shadow: 10px 10px 10px #151515;
 }
 
-
-.newPassword-main input {
+.newPassword-main .input {
   border-radius: 25px;
   border: 2px solid var(--secnt-color);
   padding: 4%;
   margin: 0 13%;
 }
-.newPassword-main input:focus {
+.newPassword-main .input:focus {
   border: 2px solid #fff;
   box-shadow: 0 0 10px 0 var(--secnt-color) inset;
   outline: none;
