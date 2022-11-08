@@ -19,9 +19,10 @@
 Bu ekranda butona basıldığında : Consola, altı basamaklı random giriş kodu gönderiyor
 
 ![xxx](https://user-images.githubusercontent.com/93881127/200184877-10b55320-aec9-41bc-90da-296b73c9d377.png)
+![güvenlik kodu](https://user-images.githubusercontent.com/93881127/200638347-df24c941-25bf-4df6-80e3-40886657306e.png)
 
-![Console](https://user-images.githubusercontent.com/93881127/200148109-e0c187bc-8832-473e-a2e3-1195f22999d7.png)
 
 ## Dogrulama Ekranı
-Kodu gönderdikten sonra doğrulama ekranına geçiş yapıyor
-![dogrula](https://user-images.githubusercontent.com/93881127/200184924-a50a5c26-fca4-44d7-ba45-e4623209e358.png)
+- "Güvenlik Kodu Gönder" butonuna basıldıktan sonra input ve button siliniyor ve yenileri ekleniyor
+- Consol' a gelen 6 haaneli güvenlik kodu doğru girilirse prompt ile yeni şifrenizi girebilirsiniz bölümü geliyor.
+![DOĞRULA](https://user-images.githubusercontent.com/93881127/200637058-c8e2f50b-9bde-4139-b3b1-45e376d349f3.png)
