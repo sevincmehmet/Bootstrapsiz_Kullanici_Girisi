@@ -18,9 +18,10 @@
 ## Sifre Yenileme Ekranı
 Bu ekranda butona basıldığında : Consola, altı basamaklı random giriş kodu gönderiyor
 
-![Şifre Yenileme Ekranı](https://user-images.githubusercontent.com/93881127/200148083-d0773a57-723f-41aa-ae54-77810c94ebf2.png)
-
- 
+![xxx](https://user-images.githubusercontent.com/93881127/200184877-10b55320-aec9-41bc-90da-296b73c9d377.png)
 
 ![Console](https://user-images.githubusercontent.com/93881127/200148109-e0c187bc-8832-473e-a2e3-1195f22999d7.png)
 
+## Dogrulama Ekranı
+Kodu gönderdikten sonra doğrulama ekranına geçiş yapıyor
+![dogrula](https://user-images.githubusercontent.com/93881127/200184924-a50a5c26-fca4-44d7-ba45-e4623209e358.png)
