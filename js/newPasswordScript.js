@@ -62,6 +62,8 @@ function baglantiGonder() {
   document.getElementById("newBtn").addEventListener("click", (control) => {
     if (document.getElementById("newInp").value == random) {
       prompt("Yeni Şifrenizi Giriniz : ");
+    } else {
+      alert("Güvenlik kodu yanlış girildi !!")
     }
   });
 }
